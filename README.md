@@ -20,6 +20,9 @@ Created temporal analysis simulations demonstrating forest growth patterns over 
 Developed automated PLY file export system for seamless integration with professional 3D software
 Implemented custom color mapping algorithms for height-based vegetation visualization
 
+3D Forest Structure Analysis:
+
+
 Software & Tools:
 
 Programming: Python (pandas, NumPy, scikit-learn, Open3D, matplotlib, seaborn)
@@ -33,3 +36,10 @@ Automated detection and measurement of individual trees with 95% accuracy compar
 Reduced forest inventory processing time from days to hours through automated segmentation
 Created reusable analysis framework applicable to multiple forest monitoring scenarios
 Demonstrated proficiency in end-to-end geospatial data science workflow from raw data to publication-ready visualizations
+
+
+FOREST STRUCTURE ANALYSIS REPORT:
+![image](https://github.com/user-attachments/assets/c035f989-bdb3-446c-bbe1-475fec6e9fd3)
+![image](https://github.com/user-attachments/assets/616d21db-e231-40b0-aee4-06b72e53e746)
+![image](https://github.com/user-attachments/assets/fb3f517f-15a6-4973-8273-37982b7e33a5)
+
