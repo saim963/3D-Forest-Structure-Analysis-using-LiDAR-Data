@@ -38,6 +38,8 @@ Reduced forest inventory processing time from days to hours through automated se
 Created reusable analysis framework applicable to multiple forest monitoring scenarios
 Demonstrated proficiency in end-to-end geospatial data science workflow from raw data to publication-ready visualizations
 
+3D STRUCTURE ANALYSIS:
+![image](https://github.com/user-attachments/assets/7e02da95-0d0a-47e3-8f77-38c717b294eb)
 
 FOREST STRUCTURE ANALYSIS REPORT:
 ![image](https://github.com/user-attachments/assets/c035f989-bdb3-446c-bbe1-475fec6e9fd3)
